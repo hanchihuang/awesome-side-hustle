@@ -20,6 +20,7 @@
 ## 宝藏资源
 
 付费的副业技巧，持续更新 https://my.feishu.cn/wiki/ROHRwJHE5i8ow3ksqJicpw1an0O?from=from_copylink
+<img width="1870" height="7767" alt="image" src="https://github.com/user-attachments/assets/d627786c-fc3a-42c3-99de-6d5775aaafe4" />
 
 ## 📑 目录
 
