@@ -19,7 +19,7 @@
 ---
 ## 宝藏资源
 
-https://my.feishu.cn/wiki/ROHRwJHE5i8ow3ksqJicpw1an0O?from=from_copylink
+付费的副业技巧，持续更新 https://my.feishu.cn/wiki/ROHRwJHE5i8ow3ksqJicpw1an0O?from=from_copylink
 
 ## 📑 目录
 
