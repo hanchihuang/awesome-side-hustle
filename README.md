@@ -1,0 +1,720 @@
+# Awesome 副业赚钱 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> 💰 精选的副业赚钱资源大全 —— 技能变现、被动收入、远程工作、自媒体运营全覆盖
+
+**[English](#english-version) | [中文](#目录)**
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/your-username/awesome-side-hustle?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/your-username/awesome-side-hustle?style=social" alt="Forks">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  <img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg" alt="License">
+</p>
+
+<p align="center">
+  <b>🎯 适合人群：上班族、学生党、自由职业者、创业者</b><br>
+  <sub>从零开始，打造你的第二收入来源</sub>
+</p>
+
+---
+
+## 📑 目录
+
+- [🚀 快速开始指南](#-快速开始指南)
+- [💻 自由职业平台](#-自由职业平台)
+  - [国际平台](#国际平台)
+  - [国内平台](#国内平台)
+  - [垂直领域平台](#垂直领域平台)
+- [🤖 AI赋能副业](#-ai赋能副业)
+  - [AI工具](#ai工具)
+  - [AI变现方式](#ai变现方式)
+- [📱 自媒体运营](#-自媒体运营)
+  - [短视频平台](#短视频平台)
+  - [图文平台](#图文平台)
+  - [音频播客](#音频播客)
+  - [变现方式](#变现方式)
+- [✍️ 写作与内容创作](#️-写作与内容创作)
+  - [网络文学平台](#网络文学平台)
+  - [付费专栏与Newsletter](#付费专栏与newsletter)
+  - [自出版平台](#自出版平台)
+- [🎨 设计与创意](#-设计与创意)
+  - [设计接单平台](#设计接单平台)
+  - [素材销售平台](#素材销售平台)
+  - [按需印刷 (POD)](#按需印刷-pod)
+- [🛒 电商与带货](#-电商与带货)
+  - [电商平台](#电商平台)
+  - [无货源模式](#无货源模式)
+  - [联盟营销](#联盟营销)
+- [📚 知识付费](#-知识付费)
+  - [课程平台](#课程平台)
+  - [付费社群](#付费社群)
+  - [咨询服务](#咨询服务)
+- [📷 摄影与视频](#-摄影与视频)
+  - [图库销售平台](#图库销售平台)
+  - [视频素材平台](#视频素材平台)
+- [💵 被动收入](#-被动收入)
+  - [投资理财](#投资理财)
+  - [数字资产](#数字资产)
+  - [房产与租赁](#房产与租赁)
+- [🔧 技能变现](#-技能变现)
+  - [编程开发](#编程开发)
+  - [翻译语言](#翻译语言)
+  - [咨询顾问](#咨询顾问)
+- [📊 任务与众包](#-任务与众包)
+- [🛠️ 效率工具](#️-效率工具)
+- [📖 学习资源](#-学习资源)
+- [⚠️ 风险提示](#️-风险提示)
+- [🤝 贡献指南](#-贡献指南)
+
+---
+
+## 🚀 快速开始指南
+
+### 按时间投入分类
+
+| 类型 | 每周时间 | 收入潜力 | 适合人群 | 推荐方向 |
+|------|----------|----------|----------|----------|
+| **零散时间** | 1-5小时 | ¥500-2000/月 | 全职上班族 | 问卷调查、任务众包、闲鱼卖货 |
+| **兼职投入** | 10-20小时 | ¥2000-8000/月 | 有固定空余时间 | 自媒体运营、设计接单、写作投稿 |
+| **认真副业** | 20-40小时 | ¥8000-30000/月 | 有专业技能 | 自由职业、知识付费、电商 |
+| **全职转型** | 40+小时 | ¥30000+/月 | 准备辞职创业 | 独立开发、自媒体IP、电商品牌 |
+
+### 按技能要求分类
+
+| 难度 | 技能要求 | 启动成本 | 收入上限 | 示例 |
+|------|----------|----------|----------|------|
+| ⭐ | 无特殊技能 | ¥0 | 低 | 问卷调查、跑腿配送、二手转卖 |
+| ⭐⭐ | 基础技能 | ¥0-500 | 中 | 自媒体、直播、社群运营 |
+| ⭐⭐⭐ | 专业技能 | ¥500-5000 | 中高 | 设计、翻译、视频剪辑 |
+| ⭐⭐⭐⭐ | 高级技能 | ¥1000-10000 | 高 | 编程开发、咨询顾问、知识付费 |
+| ⭐⭐⭐⭐⭐ | 稀缺技能 | 视情况 | 极高 | AI工程师、投资顾问、企业咨询 |
+
+> 📖 **参考来源**: [Shopify副业指南](https://www.shopify.com/zh/blog/side-hustle) | [远程副业指南](https://ecommercefastlane.com/zh-CN/top-15-remote-side-hustles-to-boost-your-income-in-2025/)
+
+---
+
+## 💻 自由职业平台
+
+### 国际平台
+
+| 平台 | 类型 | 佣金 | 时薪范围 | 特点 | 官网 |
+|------|------|------|----------|------|------|
+| **Upwork** | 综合自由职业 | 10% | $15-150 | 最大综合平台、项目丰富 | [官网](https://www.upwork.com) |
+| **Fiverr** | 技能服务市场 | 20% | $5-500/项目 | Gig模式、定价灵活 | [官网](https://www.fiverr.com) |
+| **Toptal** | 高端人才 | 0% (客户付费) | $60-200+ | 严格筛选、顶级客户 | [官网](https://www.toptal.com) |
+| **Freelancer** | 综合自由职业 | 10% | $10-100 | 项目竞标模式 | [官网](https://www.freelancer.com) |
+| **PeoplePerHour** | 综合平台 | 10-20% | £15-100 | 英国为主、数字服务 | [官网](https://www.peopleperhour.com) |
+| **Guru** | 综合平台 | 5-9% | $15-80 | 长期合作友好 | [官网](https://www.guru.com) |
+| **FlexJobs** | 远程工作 | $9.95/月 | 全职薪资 | 经审核的优质远程工作 | [官网](https://www.flexjobs.com) |
+| **We Work Remotely** | 远程工作板 | 免费 | 全职薪资 | 技术岗位为主 | [官网](https://weworkremotely.com) |
+| **Contra** | 自由职业 | 0% | 自定 | 零佣金、社交化 | [官网](https://contra.com) |
+
+> 📖 **参考来源**: [Upwork最佳自由职业网站](https://www.upwork.com/resources/best-freelance-websites) | [Medium远程工作指南](https://medium.com/@abusaeedsayem/best-freelance-platforms-for-remote-work-in-2025-where-to-find-top-jobs-ce15ee8c60d4)
+
+### 国内平台
+
+| 平台 | 类型 | 佣金 | 适合人群 | 官网 |
+|------|------|------|----------|------|
+| **程序员客栈** | 开发外包 | 20% | 程序员 | [官网](https://www.proginn.com) |
+| **程聚宝** | 开发外包 | 低佣金 | 资深开发者 | [官网](https://www.chengjubao.com) |
+| **猪八戒网** | 综合服务 | 15-20% | 设计、文案、开发 | [官网](https://www.zbj.com) |
+| **一品威客** | 综合服务 | 会员制 | 设计、开发 | [官网](https://www.epwk.com) |
+| **BOSS直聘·兼职** | 兼职工作 | 免费 | 全类型兼职 | [官网](https://www.zhipin.com) |
+| **实现网** | 专业咨询 | 平台抽成 | 专家顾问 | [官网](https://shixian.com) |
+| **在行** | 一对一咨询 | 平台抽成 | 行业专家 | [官网](https://www.zaih.com) |
+| **电鸭社区** | 远程工作 | 免费 | 远程工作者 | [官网](https://eleduck.com) |
+
+> 📖 **参考来源**: [程序员副业指南](https://www.cnblogs.com/yangykaifa/p/19240432) | [掘金远程工作](https://juejin.cn/post/7580373352421179418)
+
+### 垂直领域平台
+
+#### 设计类
+
+| 平台 | 类型 | 官网 |
+|------|------|------|
+| **99designs** | 设计竞赛/直接雇用 | [官网](https://99designs.com) |
+| **Dribbble** | 设计师社区+工作 | [官网](https://dribbble.com/jobs) |
+| **Behance** | Adobe设计社区 | [官网](https://www.behance.net/joblist) |
+| **DesignCrowd** | 设计众包 | [官网](https://www.designcrowd.com) |
+
+#### 开发类
+
+| 平台 | 类型 | 官网 |
+|------|------|------|
+| **Codeable** | WordPress专属 | [官网](https://www.codeable.io) |
+| **Gun.io** | 高端开发 | [官网](https://gun.io) |
+| **Turing** | AI匹配远程工作 | [官网](https://www.turing.com) |
+| **Arc.dev** | 远程开发工作 | [官网](https://arc.dev) |
+
+#### 写作类
+
+| 平台 | 类型 | 官网 |
+|------|------|------|
+| **Contently** | 内容营销 | [官网](https://contently.com) |
+| **Medium Partner Program** | 付费写作 | [官网](https://medium.com/creators) |
+| **Substack** | 付费Newsletter | [官网](https://substack.com) |
+
+---
+
+## 🤖 AI赋能副业
+
+### AI工具
+
+2025年，AI工具已成为副业效率倍增器：
+
+| 工具 | 用途 | 副业应用 | 官网 |
+|------|------|----------|------|
+| **ChatGPT** | AI对话/写作 | 内容创作、代码辅助、客服机器人 | [官网](https://chat.openai.com) |
+| **Claude** | AI对话/分析 | 长文写作、数据分析、研究 | [官网](https://claude.ai) |
+| **Midjourney** | AI绘画 | 设计素材、POD产品、社媒配图 | [官网](https://www.midjourney.com) |
+| **DALL-E 3** | AI绘画 | 商业设计、广告素材 | [官网](https://openai.com/dall-e-3) |
+| **Stable Diffusion** | 开源AI绘画 | 批量生成、本地部署 | [官网](https://stability.ai) |
+| **Runway** | AI视频 | 短视频制作、特效 | [官网](https://runwayml.com) |
+| **ElevenLabs** | AI语音 | 配音、有声书 | [官网](https://elevenlabs.io) |
+| **Jasper** | AI营销写作 | 广告文案、博客 | [官网](https://www.jasper.ai) |
+| **Copy.ai** | AI文案 | 社媒内容、产品描述 | [官网](https://www.copy.ai) |
+| **Canva AI** | AI设计 | 快速设计、模板定制 | [官网](https://www.canva.com) |
+
+> 📖 **参考来源**: [Forbes ChatGPT副业指南](https://www.forbes.com/sites/carolinecastrillon/2025/08/24/7-chatgpt-prompts-to-launch-a-profitable-side-hustle/) | [AI被动收入指南](https://www.techedgeflow.com/blog/ai-powered-side-hustles-how-to-build-a-passive-income-in-2025)
+
+### AI变现方式
+
+| 变现方式 | 难度 | 收入潜力 | 详细说明 |
+|----------|------|----------|----------|
+| **AI内容写作** | ⭐⭐ | ¥3000-20000/月 | 用ChatGPT辅助写博客、公众号、SEO文章 |
+| **AI设计服务** | ⭐⭐⭐ | ¥5000-30000/月 | 用Midjourney做Logo、海报、电商图 |
+| **AI视频制作** | ⭐⭐⭐ | ¥5000-50000/月 | AI生成短视频、解说视频 |
+| **AI聊天机器人** | ⭐⭐⭐⭐ | ¥10000-50000/月 | 为企业搭建客服/营销机器人 |
+| **AI有声书** | ⭐⭐ | ¥2000-10000/月 | AI配音制作有声内容 |
+| **AI绘画定制** | ⭐⭐⭐ | ¥3000-15000/月 | 头像、插画、NFT定制 |
+| **Prompt工程** | ⭐⭐⭐⭐ | ¥8000-30000/月 | 出售/提供Prompt优化服务 |
+| **AI教程培训** | ⭐⭐⭐ | ¥5000-100000/月 | 教别人使用AI工具 |
+
+> 📖 **参考来源**: [AI副业变现](https://medium.com/@saadatali.sayed/10-ai-side-hustle-ideas-in-2025-that-can-actually-make-you-passive-income-e13e0d719a18) | [AI Shift Daily](https://aishiftdaily.com/ai-powered-side-hustles-for-passive-income-2025/)
+
+---
+
+## 📱 自媒体运营
+
+### 短视频平台
+
+| 平台 | 变现门槛 | 变现方式 | 收入潜力 | 官网 |
+|------|----------|----------|----------|------|
+| **抖音** | 1000粉 | 广告分成、直播、带货、星图 | ¥1000-100万+/月 | [官网](https://www.douyin.com) |
+| **快手** | 1000粉 | 广告分成、直播、电商 | ¥1000-50万+/月 | [官网](https://www.kuaishou.com) |
+| **视频号** | 1000粉 | 直播、带货、流量主 | ¥500-10万+/月 | [微信内] |
+| **YouTube** | 1000订阅+4000小时 | 广告分成、会员、超级感谢 | $100-100万+/月 | [官网](https://www.youtube.com) |
+| **TikTok** | 10000粉 | 创作者基金、品牌合作 | $100-10万+/月 | [官网](https://www.tiktok.com) |
+| **B站** | 1000粉+10万播放 | 创作激励、充电、带货 | ¥500-50万+/月 | [官网](https://www.bilibili.com) |
+
+### 图文平台
+
+| 平台 | 变现门槛 | 变现方式 | 收入潜力 | 官网 |
+|------|----------|----------|----------|------|
+| **小红书** | 1000粉 | 品牌合作、直播、带货 | ¥1000-50万+/月 | [官网](https://www.xiaohongshu.com) |
+| **公众号** | 500粉 | 流量主、赞赏、广告 | ¥500-100万+/月 | [微信公众平台](https://mp.weixin.qq.com) |
+| **知乎** | 创作等级 | 知乎付费、盐选、带货 | ¥500-10万+/月 | [官网](https://www.zhihu.com) |
+| **今日头条** | 100粉 | 广告分成、付费专栏 | ¥100-5万+/月 | [官网](https://www.toutiao.com) |
+| **百家号** | 无门槛 | 广告分成 | ¥100-2万+/月 | [官网](https://baijiahao.baidu.com) |
+
+### 音频播客
+
+| 平台 | 类型 | 变现方式 | 官网 |
+|------|------|----------|------|
+| **喜马拉雅** | 音频平台 | 付费专辑、广告、打赏 | [官网](https://www.ximalaya.com) |
+| **小宇宙** | 播客平台 | 付费订阅、广告 | [官网](https://www.xiaoyuzhoufm.com) |
+| **荔枝FM** | 音频直播 | 打赏、广告 | [官网](https://www.lizhi.fm) |
+| **Spotify Podcasts** | 国际播客 | 广告、订阅 | [官网](https://podcasters.spotify.com) |
+| **Apple Podcasts** | 苹果播客 | 付费订阅 | [官网](https://podcasters.apple.com) |
+
+### 变现方式
+
+| 方式 | 适用平台 | 收入模式 | 特点 |
+|------|----------|----------|------|
+| **平台广告分成** | YouTube、B站、头条 | 千次播放¥1-20 | 被动收入、积累效应 |
+| **品牌商业合作** | 全平台 | 单条¥500-100万+ | 粉丝质量>数量 |
+| **直播带货** | 抖音、快手、淘宝 | 佣金5-50% | 需要销售能力 |
+| **粉丝打赏** | 全平台 | 单次¥1-1000 | 与粉丝互动强 |
+| **付费内容** | 知识星球、公众号 | 订阅制 | 需要专业内容 |
+| **私域变现** | 微信 | 自定 | 长期价值最高 |
+
+---
+
+## ✍️ 写作与内容创作
+
+### 网络文学平台
+
+| 平台 | 主要类型 | 全勤奖励 | 分成比例 | 特点 | 官网 |
+|------|----------|----------|----------|------|------|
+| **起点中文网** | 男频玄幻、都市 | ¥1500/月 (4000字/天) | 50-60% | 头部平台、竞争激烈 | [官网](https://www.qidian.com) |
+| **番茄小说** | 爽文、快节奏 | ¥600-800/月 | 广告分成 | 新人友好、2亿投入 | [官网](https://fanqienovel.com) |
+| **晋江文学城** | 女频言情、耽美 | 无固定 | 40%+版权分成 | 女频第一、IP价值高 | [官网](https://www.jjwxc.net) |
+| **七猫小说** | 传统网文 | 保底+分成 | 协商 | 门槛较高 | [官网](https://www.qimao.com) |
+| **塔读文学** | 综合类型 | ¥600-1200/月 | 订阅分成 | 新人友好、公平推荐 | [官网](https://www.tadu.com) |
+| **掌阅** | 综合类型 | 协商 | 订阅分成 | 用户付费意愿高 | [官网](https://www.ireader.com) |
+
+**网文收入参考 (2025年)**:
+- 新人作者：¥500-3000/月 (全勤+少量订阅)
+- 普通签约：¥3000-10000/月
+- 中等作者：¥10000-50000/月
+- 头部作者：¥50000-500000+/月
+
+> 📖 **参考来源**: [网文平台对比](https://m.ukezhitan.com/article-u8D5Au94B1u8D44u8BAF/11853) | [新华网番茄小说报道](http://www.news.cn/tech/20241212/7a3a29fb2cca4c4c96f7d7b71a6f9579/c.html)
+
+### 付费专栏与Newsletter
+
+| 平台 | 类型 | 分成 | 适合人群 | 官网 |
+|------|------|------|----------|------|
+| **Substack** | 付费Newsletter | 90% | 英文写作者 | [官网](https://substack.com) |
+| **竹白** | 中文Newsletter | 90% | 中文写作者 | [官网](https://zhubai.love) |
+| **小报童** | 付费专栏 | 90% | 知识创作者 | [官网](https://xiaobot.net) |
+| **知乎盐选** | 付费专栏 | 平台分成 | 知乎创作者 | [官网](https://www.zhihu.com) |
+| **公众号付费** | 付费图文 | 微信生态 | 公众号运营者 | [官网](https://mp.weixin.qq.com) |
+| **Medium** | 付费写作 | 阅读时间分成 | 英文写作者 | [官网](https://medium.com) |
+
+### 自出版平台
+
+| 平台 | 类型 | 分成 | 官网 |
+|------|------|------|------|
+| **Amazon KDP** | 电子书/纸书 | 35-70% | [官网](https://kdp.amazon.com) |
+| **豆瓣阅读** | 电子书 | 协商 | [官网](https://read.douban.com) |
+| **微信读书出版** | 电子书 | 协商 | [官网](https://weread.qq.com) |
+| **Gumroad** | 数字产品 | 90% | [官网](https://gumroad.com) |
+
+---
+
+## 🎨 设计与创意
+
+### 设计接单平台
+
+| 平台 | 服务类型 | 佣金 | 官网 |
+|------|----------|------|------|
+| **99designs** | Logo、包装、网页 | 竞赛分成 | [官网](https://99designs.com) |
+| **Dribbble** | 品牌、UI/UX | Pro会员 | [官网](https://dribbble.com) |
+| **DesignCrowd** | 设计众包 | 竞赛分成 | [官网](https://www.designcrowd.com) |
+| **猪八戒** | 综合设计 | 15-20% | [官网](https://www.zbj.com) |
+| **站酷** | 设计师社区 | 任务制 | [官网](https://www.zcool.com.cn) |
+| **花瓣** | 设计服务 | 平台分成 | [官网](https://huaban.com) |
+
+### 素材销售平台
+
+| 平台 | 素材类型 | 分成 | 官网 |
+|------|----------|------|------|
+| **Creative Market** | 设计素材 | 70% | [官网](https://creativemarket.com) |
+| **Envato Elements** | 综合素材 | 作者计划 | [官网](https://elements.envato.com) |
+| **GraphicRiver** | 矢量图形 | 37.5-75% | [官网](https://graphicriver.net) |
+| **UI8** | UI素材 | 70% | [官网](https://ui8.net) |
+| **Figma Community** | Figma组件 | 免费/付费 | [官网](https://www.figma.com/community) |
+| **Gumroad** | 任意数字产品 | 90% | [官网](https://gumroad.com) |
+
+### 按需印刷 (POD)
+
+| 平台 | 类型 | 分成 | 特点 | 官网 |
+|------|------|------|------|------|
+| **Redbubble** | POD市场 | 10-30% | 零门槛、被动收入 | [官网](https://www.redbubble.com) |
+| **TeeSpring (Spring)** | T恤/服装 | 自定利润 | 社交媒体集成 | [官网](https://www.spri.ng) |
+| **Printful** | POD供应商 | 自定利润 | 质量好、与Etsy集成 | [官网](https://www.printful.com) |
+| **Printify** | POD供应商 | 自定利润 | 供应商多、价格低 | [官网](https://printify.com) |
+| **Zazzle** | 定制产品 | 5-99% | 产品种类多 | [官网](https://www.zazzle.com) |
+| **Society6** | 艺术品 | 10% | 艺术家友好 | [官网](https://society6.com) |
+| **Etsy + POD** | 手工市场+POD | 自定-费用 | 9600万活跃买家 | [官网](https://www.etsy.com) |
+
+> 📖 **参考来源**: [POD平台对比](https://www.printondemandbusiness.com/etsy-vs-redbubble/) | [2025年POD深度比较](https://theviennacollection.com/2025%E5%B9%B4%E6%9C%80%E9%81%A9%E5%90%88%E6%96%B0%E6%89%8B%E7%9A%84%E5%9B%9B%E5%A4%A7print-on-demand%E5%B9%B3%E5%8F%B0%E6%B7%B1%E5%BA%A6%E6%AF%94%E8%BC%83/)
+
+---
+
+## 🛒 电商与带货
+
+### 电商平台
+
+| 平台 | 类型 | 入驻费用 | 适合模式 | 官网 |
+|------|------|----------|----------|------|
+| **淘宝** | C2C/B2C | 免费-保证金 | 全品类、有货源 | [官网](https://www.taobao.com) |
+| **拼多多** | 社交电商 | 免费-保证金 | 低价商品、工厂货 | [官网](https://www.pinduoduo.com) |
+| **闲鱼** | 二手交易 | 免费 | 无货源、二手 | [官网](https://www.xianyu.com) |
+| **抖音小店** | 兴趣电商 | 保证金 | 短视频带货 | [官网](https://fxg.jinritemai.com) |
+| **快手小店** | 直播电商 | 保证金 | 直播带货 | [官网](https://s.kwaixiaodian.com) |
+| **小红书店铺** | 种草电商 | 保证金 | 美妆、生活 | [官网](https://ark.xiaohongshu.com) |
+| **Shopify** | 独立站 | $5-399/月 | 跨境、品牌 | [官网](https://www.shopify.com) |
+
+### 无货源模式
+
+| 模式 | 货源平台 | 利润率 | 难度 | 说明 |
+|------|----------|--------|------|------|
+| **闲鱼无货源** | 1688、拼多多 | 10-30% | ⭐⭐ | 信息差赚钱、门槛低 |
+| **拼多多无货源** | 1688 | 5-15% | ⭐⭐⭐ | 需要选品能力 |
+| **Dropshipping** | AliExpress、1688 | 20-50% | ⭐⭐⭐ | 跨境独立站 |
+| **代发分销** | 品牌分销 | 10-30% | ⭐⭐ | 需要对接供应商 |
+
+> 📖 **参考来源**: [闲鱼无货源攻略](https://lhxz.cn/gongsidongtai/3025.html) | [电商副业指南](https://www.guowaiwangzhuan.com/80478.html)
+
+### 联盟营销
+
+| 联盟 | 佣金率 | 领域 | 官网 |
+|------|--------|------|------|
+| **Amazon Associates** | 1-10% | 全品类 | [官网](https://affiliate-program.amazon.com) |
+| **淘宝联盟** | 0.5-50% | 淘宝商品 | [官网](https://pub.alimama.com) |
+| **京东联盟** | 0.5-20% | 京东商品 | [官网](https://union.jd.com) |
+| **多多进宝** | 1-50% | 拼多多商品 | [官网](https://jinbao.pinduoduo.com) |
+| **CJ Affiliate** | 1-50% | 国际品牌 | [官网](https://www.cj.com) |
+| **ShareASale** | 1-50% | 国际品牌 | [官网](https://www.shareasale.com) |
+| **Awin** | 1-50% | 欧洲品牌 | [官网](https://www.awin.com) |
+| **Impact** | 1-50% | 企业级 | [官网](https://impact.com) |
+
+**Amazon Associates 2025年佣金率**:
+- 奢侈美妆: 10%
+- 数字音乐/视频: 5%
+- 图书/厨房用品: 4.5%
+- 时尚配饰: 4%
+- 电子产品: 1-4%
+
+> 📖 **参考来源**: [Amazon联盟指南2025](https://earnovaa.com/the-ultimate-2025-guide-to-the-amazon-affiliate-program-earn-now/) | [Shopify联盟营销](https://www.shopify.com/blog/amazon-affiliate-marketing)
+
+---
+
+## 📚 知识付费
+
+### 课程平台
+
+| 平台 | 类型 | 分成 | 特点 | 官网 |
+|------|------|------|------|------|
+| **小鹅通** | 知识店铺 | 自定 | 功能全面、私域运营 | [官网](https://www.xiaoe-tech.com) |
+| **千聊** | 直播课程 | 自定 | 直播互动 | [官网](https://www.qlchat.com) |
+| **荔枝微课** | 音频课程 | 平台分成 | 音频为主 | [官网](https://www.lizhiweike.com) |
+| **腾讯课堂** | 在线教育 | 平台分成 | 流量大 | [官网](https://ke.qq.com) |
+| **网易云课堂** | 职业教育 | 平台分成 | 专业课程 | [官网](https://study.163.com) |
+| **Udemy** | 国际课程 | 37-97% | 全球市场 | [官网](https://www.udemy.com) |
+| **Skillshare** | 创意课程 | 按观看时长 | 创意领域 | [官网](https://www.skillshare.com) |
+| **Teachable** | 课程托管 | 自定-平台费 | 自主品牌 | [官网](https://teachable.com) |
+| **Kajabi** | 课程平台 | 自定-月费 | 全功能 | [官网](https://kajabi.com) |
+
+> 📖 **参考来源**: [知识付费系统排名](https://blog.huzhan.com/tuzhi/article/9164)
+
+### 付费社群
+
+| 平台 | 类型 | 费用 | 官网 |
+|------|------|------|------|
+| **知识星球** | 付费社群 | 平台抽成 | [官网](https://www.zsxq.com) |
+| **小红圈** | 付费社群 | 平台抽成 | [官网](https://www.xiaohongshu.com) |
+| **Discord + Patreon** | 国际社群 | 5-12% | [官网](https://www.patreon.com) |
+| **Circle** | 社群平台 | $39/月起 | [官网](https://circle.so) |
+| **微信群 + 小程序** | 私域社群 | 自主运营 | 微信生态 |
+
+### 咨询服务
+
+| 平台 | 类型 | 费用 | 官网 |
+|------|------|------|------|
+| **在行** | 一对一约见 | ¥300-3000/次 | [官网](https://www.zaih.com) |
+| **分答** | 付费问答 | 自定 | [官网](https://www.zaih.com) |
+| **Clarity** | 国际咨询 | $1-10/分钟 | [官网](https://clarity.fm) |
+| **Intro** | 专家咨询 | 自定 | [官网](https://intro.co) |
+
+---
+
+## 📷 摄影与视频
+
+### 图库销售平台
+
+| 平台 | 类型 | 分成 | 特点 | 官网 |
+|------|------|------|------|------|
+| **Shutterstock** | 综合图库 | 15-40% | 全球最大、累计分发超10亿 | [官网](https://submit.shutterstock.com) |
+| **Getty Images** | 高端图库 | 15-45% | 高单价、编辑类图片 | [官网](https://www.gettyimages.com) |
+| **Adobe Stock** | Adobe生态 | 33% | 与Adobe集成 | [官网](https://stock.adobe.com) |
+| **iStock** | Getty子平台 | 15-45% | 中端市场 | [官网](https://www.istockphoto.com) |
+| **500px** | 摄影社区 | 60%起 | 摄影师社区 | [官网](https://500px.com) |
+| **Alamy** | 高分成 | 50% | 分成最高 | [官网](https://www.alamy.com) |
+| **图虫创意** | 国内图库 | 协商 | 视觉中国旗下 | [官网](https://stock.tuchong.com) |
+
+> 📖 **参考来源**: [Shutterstock供稿](https://submit.shutterstock.com/zh)
+
+### 视频素材平台
+
+| 平台 | 类型 | 分成 | 官网 |
+|------|------|------|------|
+| **Pond5** | 视频素材 | 40-60% | [官网](https://www.pond5.com) |
+| **Artgrid** | 电影级素材 | 邀请制 | [官网](https://artgrid.io) |
+| **Storyblocks** | 订阅素材库 | 邀请制 | [官网](https://www.storyblocks.com) |
+| **Videohive** | 视频模板 | 37.5-75% | [官网](https://videohive.net) |
+
+---
+
+## 💵 被动收入
+
+### 投资理财
+
+| 类型 | 年化收益 | 风险等级 | 说明 |
+|------|----------|----------|------|
+| **货币基金** | 1-3% | 低 | 余额宝等、流动性好 |
+| **国债** | 2-4% | 极低 | 国家信用、定期收益 |
+| **债券基金** | 3-6% | 中低 | 稳健配置 |
+| **指数基金** | 5-15% | 中 | 长期定投、被动投资 |
+| **股息股票** | 3-8%股息 | 中高 | 现金流收入 |
+| **REITs** | 4-8% | 中 | 房地产信托 |
+
+> ⚠️ **风险提示**: 投资有风险，以上收益为历史参考，不代表未来表现。请根据个人风险承受能力谨慎投资。
+
+> 📖 **参考来源**: [被动收入指南](https://engage.fa.com.sg/lidwinateo/2025%E5%B9%B4%E6%9C%80%E9%80%82%E5%90%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%845%E5%A4%A7%E8%A2%AB%E5%8A%A8%E6%94%B6%E5%85%A5%EF%BC%81/)
+
+### 数字资产
+
+| 类型 | 收入模式 | 说明 |
+|------|----------|------|
+| **电子书** | 版税 | 一次创作、持续收入 |
+| **在线课程** | 销售分成 | 知识资产 |
+| **软件/App** | 订阅/一次性 | 需要开发能力 |
+| **模板/素材** | 销售分成 | 设计资产 |
+| **音乐版权** | 流媒体分成 | 创作者收入 |
+| **专利授权** | 授权费 | 技术变现 |
+
+### 房产与租赁
+
+| 类型 | 收益模式 | 说明 |
+|------|----------|------|
+| **长租房产** | 月租金 | 传统被动收入 |
+| **Airbnb民宿** | 短租收入 | 需要运营 |
+| **车位出租** | 月租 | 低维护 |
+| **仓储出租** | 月租 | 闲置空间变现 |
+| **设备租赁** | 使用费 | 摄影器材、工具等 |
+
+---
+
+## 🔧 技能变现
+
+### 编程开发
+
+| 变现方式 | 平台 | 收入范围 | 难度 |
+|----------|------|----------|------|
+| **接外包项目** | Upwork、程序员客栈 | ¥5000-50000/项目 | ⭐⭐⭐ |
+| **技术咨询** | 在行、企业合作 | ¥500-2000/小时 | ⭐⭐⭐⭐ |
+| **开发SaaS** | 独立开发 | ¥0-100万+/月 | ⭐⭐⭐⭐⭐ |
+| **开源赞助** | GitHub Sponsors | $0-10000+/月 | ⭐⭐⭐⭐ |
+| **技术写作** | 掘金、思否 | ¥500-5000/篇 | ⭐⭐⭐ |
+| **录制课程** | Udemy、极客时间 | ¥10000-500000 | ⭐⭐⭐⭐ |
+| **开发插件/模板** | 各应用市场 | ¥1000-100000/月 | ⭐⭐⭐⭐ |
+
+### 翻译语言
+
+| 平台 | 类型 | 收入 | 官网 |
+|------|------|------|------|
+| **有道人工翻译** | 综合翻译 | ¥60-150/千字 | [官网](https://f.youdao.com) |
+| **Gengo** | 国际翻译 | $0.03-0.12/字 | [官网](https://gengo.com) |
+| **TranslatorsCafe** | 翻译社区 | 协商 | [官网](https://www.translatorscafe.com) |
+| **ProZ** | 专业翻译 | 协商 | [官网](https://www.proz.com) |
+| **语翼** | 综合翻译 | 协商 | [官网](https://www.yeeworld.com) |
+
+### 咨询顾问
+
+| 领域 | 收费范围 | 平台 |
+|------|----------|------|
+| **职业规划** | ¥300-1000/次 | 在行、领英 |
+| **法律咨询** | ¥200-1000/次 | 专业平台 |
+| **财务顾问** | ¥500-3000/次 | 专业资质 |
+| **营销顾问** | ¥500-5000/次 | 自主获客 |
+| **技术顾问** | ¥500-2000/小时 | 企业合作 |
+
+---
+
+## 📊 任务与众包
+
+### 调查问卷
+
+| 平台 | 类型 | 收入 | 官网 |
+|------|------|------|------|
+| **问卷星** | 国内问卷 | ¥1-10/份 | [官网](https://www.wjx.cn) |
+| **Swagbucks** | 国际问卷 | $0.5-5/份 | [官网](https://www.swagbucks.com) |
+| **Survey Junkie** | 国际问卷 | $0.5-3/份 | [官网](https://www.surveyjunkie.com) |
+| **Toluna** | 国际问卷 | 积分兑换 | [官网](https://www.toluna.com) |
+
+### 任务众包
+
+| 平台 | 任务类型 | 收入 | 官网 |
+|------|----------|------|------|
+| **Amazon MTurk** | 微任务 | $0.01-10/任务 | [官网](https://www.mturk.com) |
+| **百度众测** | 数据标注 | ¥0.1-5/任务 | [官网](https://test.baidu.com) |
+| **京东众智** | 数据标注 | ¥0.1-3/任务 | [官网](https://z.jd.com) |
+| **阿里众包** | 综合任务 | ¥0.5-50/任务 | [官网](https://www.alizhongbao.com) |
+| **Appen** | AI数据 | $5-25/小时 | [官网](https://appen.com) |
+| **Remotasks** | AI训练数据 | $5-15/小时 | [官网](https://www.remotasks.com) |
+
+### 本地服务
+
+| 平台 | 服务类型 | 官网 |
+|------|----------|------|
+| **TaskRabbit** | 跑腿/维修 | [官网](https://www.taskrabbit.com) |
+| **美团跑腿** | 配送 | [官网](https://www.meituan.com) |
+| **达达快送** | 配送 | [官网](https://www.dada.cn) |
+| **闪送** | 同城急送 | [官网](https://www.ishansong.com) |
+
+---
+
+## 🛠️ 效率工具
+
+### 时间管理
+
+| 工具 | 用途 | 官网 |
+|------|------|------|
+| **Notion** | 全能笔记/项目管理 | [官网](https://www.notion.so) |
+| **Todoist** | 任务管理 | [官网](https://todoist.com) |
+| **Toggl** | 时间追踪 | [官网](https://toggl.com) |
+| **RescueTime** | 时间分析 | [官网](https://www.rescuetime.com) |
+| **Forest** | 专注力 | [官网](https://www.forestapp.cc) |
+
+### 财务管理
+
+| 工具 | 用途 | 官网 |
+|------|------|------|
+| **随手记** | 记账 | [官网](https://www.sui.com) |
+| **YNAB** | 预算管理 | [官网](https://www.ynab.com) |
+| **Wave** | 发票/记账 | [官网](https://www.waveapps.com) |
+| **FreshBooks** | 发票/记账 | [官网](https://www.freshbooks.com) |
+
+### 创作工具
+
+| 工具 | 用途 | 官网 |
+|------|------|------|
+| **Canva** | 设计 | [官网](https://www.canva.com) |
+| **Figma** | UI设计 | [官网](https://www.figma.com) |
+| **剪映** | 视频剪辑 | [官网](https://www.capcut.cn) |
+| **Descript** | 音视频编辑 | [官网](https://www.descript.com) |
+
+---
+
+## 📖 学习资源
+
+### 副业学习社区
+
+| 社区 | 类型 | 官网 |
+|------|------|------|
+| **生财有术** | 付费社群 | 知识星球搜索 |
+| **即刻** | 创业者社区 | [官网](https://www.okjike.com) |
+| **V2EX** | 技术社区 | [官网](https://www.v2ex.com) |
+| **Reddit r/sidehustle** | 英文社区 | [链接](https://www.reddit.com/r/sidehustle) |
+| **Indie Hackers** | 独立开发者 | [官网](https://www.indiehackers.com) |
+| **Product Hunt** | 产品发布 | [官网](https://www.producthunt.com) |
+
+### 推荐书籍
+
+| 书名 | 作者 | 主题 |
+|------|------|------|
+| **《副业赚钱》** | 赵子皓 | 副业入门 |
+| **《从0到1》** | Peter Thiel | 创业思维 |
+| **《精益创业》** | Eric Ries | MVP方法论 |
+| **《4小时工作周》** | Tim Ferriss | 被动收入 |
+| **《富爸爸穷爸爸》** | Robert Kiyosaki | 财商教育 |
+| **《远程工作革命》** | Tsedal Neeley | 远程工作 |
+
+### 推荐播客/频道
+
+| 名称 | 平台 | 主题 |
+|------|------|------|
+| **硅谷早知道** | 小宇宙 | 科技创业 |
+| **创业内幕** | 小宇宙 | 创业故事 |
+| **得意忘形** | 播客 | 个人成长 |
+| **Ali Abdaal** | YouTube | 生产力/副业 |
+| **Graham Stephan** | YouTube | 理财/副业 |
+| **Pat Flynn** | Podcast | 被动收入 |
+
+---
+
+## ⚠️ 风险提示
+
+### 常见副业骗局
+
+| 骗局类型 | 特征 | 防范方法 |
+|----------|------|----------|
+| **刷单返利** | 先垫付后返款 | 任何需要先付款的都是骗局 |
+| **打字赚钱** | 号称月入过万 | 真实打字单价极低 |
+| **代理/会员费** | 先交费后赚钱 | 正规平台不需要交费 |
+| **高返利投资** | 承诺固定高收益 | 不符合金融规律 |
+| **培训割韭菜** | 卖焦虑卖课程 | 核实讲师真实背景 |
+
+### 注意事项
+
+1. **合法合规**: 确保副业活动符合法律法规和公司规定
+2. **税务申报**: 副业收入达到一定额度需要申报纳税
+3. **时间平衡**: 不要影响本职工作和身体健康
+4. **知识产权**: 尊重他人知识产权，保护自己的创作
+5. **财务安全**: 不要为副业承担过高的财务风险
+6. **隐私保护**: 保护个人信息，警惕钓鱼诈骗
+
+---
+
+## 🤝 贡献指南
+
+欢迎贡献！请遵循以下步骤：
+
+1. **Fork** 本仓库
+2. 创建特性分支 (`git checkout -b feature/NewResource`)
+3. 提交更改 (`git commit -m 'Add NewResource'`)
+4. 推送到分支 (`git push origin feature/NewResource`)
+5. 开启 **Pull Request**
+
+### 贡献规范
+
+- ✅ 确保链接有效且指向官方来源
+- ✅ 添加真实可验证的收入信息
+- ✅ 保持格式一致
+- ✅ 分享个人实践经验
+- ❌ 不添加需要高额前期投入的项目
+- ❌ 不推广任何传销或庞氏骗局
+- ❌ 不添加违法或灰色地带项目
+
+---
+
+## 📜 许可证
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+本作品采用 [CC0 1.0 通用 (CC0 1.0) 公共领域贡献](https://creativecommons.org/publicdomain/zero/1.0/deed.zh) 许可协议。
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=your-username/awesome-side-hustle&type=Date)](https://star-history.com/#your-username/awesome-side-hustle&Date)
+
+---
+
+<p align="center">
+  <b>如果这个项目对你有帮助，请给一个 ⭐ Star 支持！</b>
+</p>
+
+<p align="center">
+  💡 记住：最好的副业是你已经在做的事情的延伸
+</p>
+
+<p align="center">
+  Made with ❤️ for Side Hustlers
+</p>
+
+---
+
+## 📋 数据来源与参考
+
+本资源列表的数据来源于以下权威渠道：
+
+- [Shopify 副业指南](https://www.shopify.com/zh/blog/side-hustle)
+- [Forbes ChatGPT副业指南](https://www.forbes.com/sites/carolinecastrillon/2025/08/24/7-chatgpt-prompts-to-launch-a-profitable-side-hustle/)
+- [Upwork 自由职业平台](https://www.upwork.com)
+- [Amazon Associates 官方](https://affiliate-program.amazon.com)
+- [新华网 番茄小说报道](http://www.news.cn/tech/20241212/7a3a29fb2cca4c4c96f7d7b71a6f9579/c.html)
+- [Shutterstock 供稿者平台](https://submit.shutterstock.com)
+- [知识付费系统排名](https://blog.huzhan.com/tuzhi/article/9164)
+
+朋友们现在的Tardis API是solo 1200每月的档位，年付年付！（14400美元折合人民币10万多人民币）
+现货、期货、期权的数据都有啦！需要数据的联系微信a13479004101，代下载每一T收费249，单次最低99。
+
+致富证券可能是一张内地身份证5分钟线上开户美港股的最后一台车了。
+开户奖励很丰厚，总价值高达HK$8,800，包括现金券、返现、股票和转仓回赠。推荐好友还能额外拿钱，上不封顶。具体奖励有：1. 开户直接拿HK$200现金券+交易券；2. 入金最高返HK$1,300，还送NVIDIA股票；3. 转仓最高回赠HK$7,000；4. 推荐好友每成功一个得HK$300。
+
+注意需要通过我的邀请码XC6774（二维码：https://image2url.com/r2/default/images/1770021823559-f8b6c7cb-d63d-4b01-9ead-48455da15c08.png或者https://mp.weixin.qq.com/s/NnIA1hszlLCyQ6BVxTmMAw）注册才有数千额外奖励QAQ。
+
+致富支持大陆用户无港卡开户 ，可尝试用工商银行等快速入金，需开户7天内入金1万港币等值的前才有上述奖励。
+
+致富chief.apk
+链接: https://pan.baidu.com/s/1gpI4JSYY6MwZqP8Ywor9Tw?pwd=hmec 提取码: hmec
+
+![32ed3917f1f7f20f3e561e3b386da68e](https://github.com/user-attachments/assets/e6ad42c2-3bd1-4426-a4ac-53458cf2ce84)
+![f2ded2c901a4e731b32d4addcce25f3c](https://github.com/user-attachments/assets/10d5fefd-a939-435a-b252-ec29f2bbbbea)
+![微信图片_20260203141110_215_152](https://github.com/user-attachments/assets/bced6473-80cd-4569-9d20-44c46ffde382)
+![微信图片_20260203141111_216_152](https://github.com/user-attachments/assets/320f2928-8201-4977-b81d-9dd47f94c48f)
