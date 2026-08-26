@@ -572,6 +572,7 @@
 | **YNAB** | 预算管理 | [官网](https://www.ynab.com) |
 | **Wave** | 发票/记账 | [官网](https://www.waveapps.com) |
 | **FreshBooks** | 发票/记账 | [官网](https://www.freshbooks.com) |
+| **Toolkit Labs Invoice** | 浏览器免费发票/收据 PDF；[商业版 EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-side-hustle-v1)（白标、6 模板、本地 CSV 批量） | [官网](https://ytinumoc.github.io/toolkitlabs-invoice/) |
 
 ### 创作工具
 
