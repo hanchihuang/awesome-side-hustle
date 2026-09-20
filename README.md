@@ -18,6 +18,7 @@
 
 ---
 ## 宝藏资源
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — 免费浏览器端自由职业发票/报价/[对账单](https://darweesh128-cmd.github.io/client-close-kit/statement-of-account.html)生成器（MIT）
 
 付费的副业技巧，持续更新 https://my.feishu.cn/wiki/ROHRwJHE5i8ow3ksqJicpw1an0O?from=from_copylink
 <img width="1870" height="7767" alt="image" src="https://github.com/user-attachments/assets/d627786c-fc3a-42c3-99de-6d5775aaafe4" />
