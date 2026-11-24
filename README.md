@@ -807,6 +807,12 @@
 
 ---
 
+
+## 公共数据 API（Apify）
+
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
+
 ## 🤝 贡献指南
 
 欢迎贡献！请遵循以下步骤：
